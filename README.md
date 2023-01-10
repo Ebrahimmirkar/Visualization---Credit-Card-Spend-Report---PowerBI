@@ -4,7 +4,7 @@ Analyzing customer spending for credit card company using PowerBI Desktop, DAX Q
 
 Dataset : https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
 
-Published PowerBI report : https://app.powerbi.com/view?r=eyJrIjoiOGNmMWZiOTItNDdiOS00ZTk4LWI1ZmUtYjIyODg4Y2EyYmNjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+Published PowerBI report : https://app.powerbi.com/view?r=eyJrIjoiMDZiMTM5NDgtYmQwOC00MGU5LTgxZDctYWEyZmI3YjBmNGExIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 Tools : PowerQuery, PowerBI Desktop, DAX Queries, PowerBI Service
 
